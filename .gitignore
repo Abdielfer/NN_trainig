@@ -1,6 +1,13 @@
 # Object file
 *.o
 
+# virtual environments
+*.env
+*.venv
+*env/
+*venv/
+*ENV/
+
 # Ada Library Information
 *.ali
 cd 
